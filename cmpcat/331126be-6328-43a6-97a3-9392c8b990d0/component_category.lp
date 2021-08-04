@@ -1,0 +1,10 @@
+(librepcb_component_category 331126be-6328-43a6-97a3-9392c8b990d0
+ (name "Transistors")
+ (description "")
+ (keywords "")
+ (author "Logan Plumlee")
+ (version "0.1")
+ (created 2021-08-04T00:47:17Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,10 @@
+(librepcb_library dee0a8b4-6e3c-4847-8f7a-ff8583611f90
+ (name "Hobby Components")
+ (description "A library full of hobby components that are not already included in the official libraries")
+ (keywords "")
+ (author "Logan Plumlee")
+ (version "0.1")
+ (created 2021-08-03T03:00:09Z)
+ (deprecated false)
+ (url "https://github.com/MaskMaster4048/LibrePCB_HobbyComponents")
+)
